@@ -1,5 +1,7 @@
 # Dynamic Quiz Application
 
+# Wanna See a demo -> https://chesterking4204.github.io/Quiz-App/
+
 A browser-based quiz application with timer, multiple categories, difficulty levels, and detailed result analysis.
 
 ## Features
